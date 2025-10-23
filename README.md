@@ -1,10 +1,10 @@
-## 👨‍💻 IT-Student from Norway  
+## IT-Student from Norway  
 
 ![Jesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesperhh01&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🧠 Comfortable with  
+### Comfortable with  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Currently Learning  
+### Currently Learning  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
