@@ -1,4 +1,9 @@
-## Hi there 👋
+## IT-Student from Norway
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Jesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesperhh01&show_icons=true&theme=tokyonight)
+
 
 <!--
 **Jesperhh01/jesperhh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
