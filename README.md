@@ -1,8 +1,10 @@
 ## A nerdy IT-Student from Norway  
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jesperhh01&show_icons=true&theme=tokyonight" alt="Jesper's GitHub stats" />
-  <img src="https://api.boot.dev/v1/users/public/1b08ba9c-dd9d-4f73-8db9-c14b0d92a4fa/thumbnail" >
+ <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesperhh01&show_icons=true&theme=tokyonight" alt="Jesper's GitHub stats" width="48%" />
+  <img src="https://api.boot.dev/v1/users/public/1b08ba9c-dd9d-4f73-8db9-c14b0d92a4fa/thumbnail" alt="Boot.dev Progress" width="40%" />
+</div>
   
 ---
 
