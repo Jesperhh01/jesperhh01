@@ -1,10 +1,14 @@
 ## A nerdy IT-Student from Norway  
 
-![Jesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesperhh01&show_icons=true&theme=tokyonight)
-<p align="right">
-  <img src="https://api.boot.dev/v1/users/public/1b08ba9c-dd9d-4f73-8db9-c14b0d92a4fa/thumbnail" >
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=jesperhh01&show_icons=true&theme=tokyonight" alt="Jesper's GitHub stats" />
+
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,python,javascript,java,html,css,react,docker,kubernetes,postgres" />
+  </p>
+
+</div>
 ---
 
 ### Tools I have used
