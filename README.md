@@ -6,14 +6,14 @@
 
 ### Tools I have used
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=csharp,python,docker,html,css,java,javascript,dotnet,react" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,python,javascript,java,html,css,react,docker,kubernetes,postgres," />
 </p>
 
 ---
 
 ### Currently Learning/Want to learn  
 <p align="left">
- <img src="https://skillicons.dev/icons?i=typescript,go" />
+ <img src="https://skillicons.dev/icons?i=typescript,go,azure" />
 </p>
 
 ### A little about me
