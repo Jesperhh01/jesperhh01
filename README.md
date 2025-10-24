@@ -17,6 +17,7 @@
 </p>
 
 ### A little about me
+I love working fullstack, but most of my focus has been on backend development. I love tinkering with new ideas and creating the odd videogame prototype now and then.
 
 
 <!--
