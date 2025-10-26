@@ -10,7 +10,7 @@
 
 ### Tools I have used
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,python,javascript,java,html,css,react,docker,kubernetes,postgres," />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,python,javascript,java,html,css,react,docker,kubernetes,postgres,aws," />
 </p>
 
 ---
